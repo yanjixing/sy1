@@ -18,6 +18,6 @@
 
 git clone https://github.com/awesome-openwrt/luci-app-usb-printer.git package/luci-app-usb-printer
 
-git clone https://github.com/frainzy1477/luci-app-clash.git package/luci-app-clash
+https://github.com/vernesong/OpenClash.git package/luci-app-clash
 
 #svn co https://github.com.cnpmjs.org/yanjixing/lede
