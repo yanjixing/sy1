@@ -11,13 +11,13 @@
 #
 
 # Uncomment a feed source
-#sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
+# sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
 
 # Add a feed source
-#sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
+# sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
 
 git clone https://github.com/awesome-openwrt/luci-app-usb-printer.git package/luci-app-usb-printer
 
 git clone https://github.com/vernesong/OpenClash.git package/luci-app-clash
 
-#svn co https://github.com.cnpmjs.org/yanjixing/lede
+# svn co https://github.com.cnpmjs.org/yanjixing/lede
