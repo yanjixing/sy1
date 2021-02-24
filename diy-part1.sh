@@ -16,7 +16,4 @@
 # Add a feed source
 # sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
 
-git clone https://github.com/awesome-openwrt/luci-app-usb-printer.git package/luci-app-usb-printer
-
-git clone https://github.com/vernesong/OpenClash.git  package
 # svn co https://github.com.cnpmjs.org/yanjixing/lede
