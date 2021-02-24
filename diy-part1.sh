@@ -18,7 +18,7 @@
 
 # svn co https://github.com.cnpmjs.org/yanjixing/lede
 
-#svn co https://github.com/vernesong/OpenClash/trunk/luci-app-openclash package/luci-app-openclash
+svn co https://github.com/vernesong/OpenClash/trunk/luci-app-openclash package/luci-app-openclash
 
-#git clone https://github.com/awesome-openwrt/luci-app-usb-printer.git package/luci-app-usb-printer
+git clone https://github.com/awesome-openwrt/luci-app-usb-printer.git package/luci-app-usb-printer
 
