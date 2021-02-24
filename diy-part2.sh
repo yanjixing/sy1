@@ -16,4 +16,3 @@
 
 git clone https://github.com/awesome-openwrt/luci-app-usb-printer.git package/luci-app-usb-printer
 
-git clone https://github.com/vernesong/OpenClash.git  package
