@@ -22,9 +22,10 @@
 
 #chmod 777 package/luci-app-openclash
 
-#git clone https://github.com/awesome-openwrt/luci-app-usb-printer.git package/luci-app-usb-printer
+git clone https://github.com/awesome-openwrt/luci-app-usb-printer.git package/luci-app-usb-printer
 
-#git clone -b luci2 https://github.com/kuoruan/luci-app-v2ray.git package/luci-app-v2ray
+git clone -b luci2 https://github.com/kuoruan/luci-app-v2ray.git package/luci-app-v2ray
 
+git clone https://github.com/pymumu/luci-app-smartdns.git package/luci-app-smartdns.git
 #git clone https://github.com/frainzy1477/luci-app-clash.git package/luci-app-clash
-git clone https://github.com/yanjixing/openwrt-packages-1.git package/leda
+
