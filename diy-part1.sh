@@ -25,7 +25,7 @@
 git clone https://github.com/awesome-openwrt/luci-app-usb-printer.git package/luci-app-usb-printer
 
 git clone -b legacy https://github.com/kuoruan/luci-app-v2ray.git package/luci-app-v2ray
-
+git clone https://github.com/yanjixing/lean.git package
 git clone https://github.com/pymumu/luci-app-smartdns.git package/luci-app-smartdns
 #git clone https://github.com/frainzy1477/luci-app-clash.git package/luci-app-clash
 
