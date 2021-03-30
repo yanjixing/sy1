@@ -20,7 +20,7 @@ on:
         default: 'false'
 
 env:
-  REPO_URL: https://github.com/cnfug/openwrt18.06-old.git
+  REPO_URL: https://github.com/rsd1987/openwrt18.06.git
  # REPO_URL: https://github.com/openwrt/openwrt
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
