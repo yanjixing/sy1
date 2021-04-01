@@ -20,9 +20,9 @@ on:
         default: 'false'
 
 env:
-  REPO_URL: https://github.com/yanjixing/immortalwrt.git
+  REPO_URL: https://github.com/Itus-Shield/kernel-5.4.git
   #REPO_URL: https://github.com/immortalwrt/immortalwrt.git
-  REPO_BRANCH: openwrt-18.06-k5.4.
+  REPO_BRANCH: kernel-5.4
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
   DIY_P1_SH: diy-part1.sh
