@@ -12,6 +12,9 @@ name: Build OpenWrt-3g300m
 
 on:
   repository_dispatch:
+#点☆Star触发开始编译
+  watch:
+    types: started
   workflow_dispatch:
     inputs:
       ssh:
