@@ -21,7 +21,7 @@
 #svn co https://github.com/vernesong/OpenClash/trunk/luci-app-openclash package/luci-app-openclash
 
 #chmod 777 package/luci-app-openclash
-#git clone https://github.com/yanjixing/luci-app-usb-printer.git package/luci-app-usb-printer
+git clone https://github.com/yanjixing/luci-app-usb-printer.git package/luci-app-usb-printer
 #unzip -j lean.zip -d package/
 #git clone https://github.com/awesome-openwrt/luci-app-usb-printer.git package/luci-app-usb-printer
 
